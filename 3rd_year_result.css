@@ -1,0 +1,41 @@
+
+
+.navbar {
+    float: right;
+    color: rgb(12, 11, 11);
+    
+    padding: 14px 16px;
+    text-decoration-color: black;
+    font-size: 20px;
+  }
+
+
+
+  body, html {
+    height: 100%;
+  }
+
+  body {
+    /* The image used */
+    background-image: url("background.jpg");
+    
+    /* Full height */
+    height: 100%;
+  
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+
+.button2 {
+  float: right;
+  color: rgb(12, 11, 11);
+    
+}
+
+  
+.navbar.navbar-dark .nav-item .nav-link:hover { color: #080808!important; } 
+.navbar.navbar-dark .nav-item .nav-link:focus { color: #030303!important; } 
+.navbar.navbar-dark .nav-item .nav-link:active { color: #080808!important; } 
+.navbar.navbar-dark .nav-item .nav-link:visited { color: #080808!important; } 
